@@ -1,10 +1,10 @@
 # change the followings to match your Github username and repo name
-baseurl: "/tailpages" # the name of your github repo
-url: "https://harrywang.github.io" # the url of your github pages
+baseurl: "/blog" # the name of your github repo
+url: "https://tomtietz.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Tailpages: Tailwind + Github Pages"
-description: A Github Pages (Jekyll) template based on TailwindCSS
+title: "Tom's Blog"
+description: Personal Blog
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
@@ -26,11 +26,11 @@ nav-menu:
   permalink: blog
 
 # use false to turn off any social media links
-twitter: https://twitter.com/
-facebook: https://facebook.com/
-instagram: https://instagram.com/
-github: https://github.com/
-linkedin: https://linkedin.com/
+twitter: false
+facebook: false
+instagram: false
+github: https://github.com/TomTietz
+linkedin: https://www.linkedin.com/in/tom-j-tietz/
 medium: false
 google-scholar: false
 email: false
