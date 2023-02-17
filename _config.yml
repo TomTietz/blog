@@ -10,9 +10,9 @@ description: Personal Blog
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Satoshi Nakamoto
-author-bio: Creator of Bitcoin  # change to false to hide
-author-image: 279.png  # file must be in the /assets/img/ folder
+author: Tom Tietz
+author-bio: false # change to false to hide
+author-image: garfield.png  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
@@ -20,10 +20,10 @@ show-nav-menu: true
 nav-menu:
 - text: About
   permalink: about
-- text: Bitcoin
-  permalink: bitcoin
-- text: Blog
-  permalink: blog
+- text: Tutorials
+  permalink: tutorials
+- text: Projects
+  permalink: projects
 
 # use false to turn off any social media links
 twitter: false
@@ -33,7 +33,7 @@ github: https://github.com/TomTietz
 linkedin: https://www.linkedin.com/in/tom-j-tietz/
 medium: false
 google-scholar: false
-email: false
+email: tomjt@tutanota.com
 
 # footer information
 footer-msg: "Powered by Tailpages"
