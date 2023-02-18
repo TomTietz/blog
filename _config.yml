@@ -39,7 +39,7 @@ email: false
 footer-msg: "Powered by Tailpages"
 footer-msg-link: https://github.com/harrywang/tailpages
 
-# google analytics
+# google analytics G-ID
 google-analytics: G-ZG74M851QX
 
 # jekyll plugins - no need to change
