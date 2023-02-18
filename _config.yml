@@ -20,10 +20,10 @@ show-nav-menu: true
 nav-menu:
 - text: About
   permalink: about
-- text: Tutorials
-  permalink: tutorials
-- text: Projects
-  permalink: projects
+- text: Tutorials & Projects
+  permalink: blog
+#- text: Resume
+#  permalink: resume
 
 # use false to turn off any social media links
 twitter: false
@@ -33,7 +33,7 @@ github: https://github.com/TomTietz
 linkedin: https://www.linkedin.com/in/tom-j-tietz/
 medium: false
 google-scholar: false
-email: tomjt@tutanota.com
+email: false
 
 # footer information
 footer-msg: "Powered by Tailpages"
@@ -45,3 +45,4 @@ google-analytics: G-WCRC1TC2V5
 # jekyll plugins - no need to change
 plugins:
     - jekyll-seo-tag
+
