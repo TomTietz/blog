@@ -20,7 +20,7 @@ show-nav-menu: true
 nav-menu:
 - text: About
   permalink: about
-- text: Tutorials & Projects
+- text: Articles
   permalink: blog
 #- text: Resume
 #  permalink: resume

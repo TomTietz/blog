@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tutorials/Projects
+title: Articles
 permalink: blog
 ---
 
